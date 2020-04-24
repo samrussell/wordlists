@@ -385,6 +385,7 @@ przejść 43290
 zamierzać 43206
 wysłać 43197
 film 42929
+okej 42719
 ciągle 42633
 szczęśliwy 42235
 jednak 41990
@@ -418,7 +419,6 @@ uciec 39183
 nauczyć 38916
 brzmieć 38649
 plan 38639
-ego 38614
 cokolwiek 38503
 załatwić 38394
 skoro 37871
@@ -529,7 +529,6 @@ starać 29634
 odebrać 29605
 sprawić 29582
 firma 29510
-tona 29202
 uczyć 29175
 temat 29081
 dopiero 29079
@@ -635,7 +634,6 @@ obiecać 23741
 rodzaj 23719
 duch 23694
 klient 23664
-okay 23604
 serio 23566
 wspaniale 23525
 popatrzyć 23426
@@ -770,7 +768,6 @@ fakt 19391
 zastrzelić 19334
 zimny 19307
 wkrótce 19142
-okej 19115
 powieść 19062
 przyjąć 19053
 odkryć 19049
@@ -3679,6 +3676,7 @@ amerykanin 2879
 cywilizacja 2878
 upić 2878
 przytrzymać 2877
+tona 2874
 ramy 2874
 miś 2874
 starzec 2873

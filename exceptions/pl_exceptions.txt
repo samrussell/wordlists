@@ -134,7 +134,7 @@ sir _
 ciągle ciągle
 skoro skoro
 halo _
-tona _
+tony _
 gotowi gotowy
 udało udać
 udał udać
@@ -170,3 +170,6 @@ porach pora
 wodach woda
 wody woda
 dna _
+ego _
+t _
+okay okej

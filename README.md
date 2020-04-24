@@ -3,6 +3,7 @@
 This is a set of word frequency lists that I find useful for learning languages.
 
 * `polish.txt` - This is from the opensubtitles.net 2018 list (https://github.com/hermitdave/FrequencyWords), processed against the SGJP dictionary (sgjp.pl)
+* `pl_top_1000_with_conjugations.txt` - This is the top 1000 words from the above list, with all conjugations/declensions
 
 ## Why word frequency dictionaries?
 
