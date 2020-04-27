@@ -12,18 +12,18 @@ u 4779513
 ti 4366720
 to 4021684
 što 4000229
-šta 3753146
+šta 3831566
 koji 3342048
 htjeti 3245420
 mi 3113061
-hteti 2797234
+hteti 2868457
 na 2715310
-moći 2550279
+moći 2574541
 sa 2249585
 ovaj 2235705
 za 2235317
 li 2047748
-znati 2003110
+znati 2021687
 imati 1911792
 ni 1810284
 sav 1786465
@@ -45,6 +45,7 @@ te 1193623
 a 1191129
 onaj 1177451
 videti 1120879
+morati 1118898
 kako 1086915
 bilo 1054930
 o 1028624
@@ -53,7 +54,7 @@ ako 975660
 trebati 965274
 kao 937105
 želeti 929843
-morati 921450
+ovde 905499
 neki 880557
 taka 850436
 tako 848745
@@ -63,23 +64,23 @@ jedan 824589
 vidjeti 823769
 tvoj 758321
 mnogo 731556
-ovde 724120
 svoj 724068
 pa 714572
 mali 704967
+nešto 704373
+zašto 694268
 čovek 687591
 nemati 685967
-nešto 682918
-zašto 672863
+još 677852
 red 662554
 s 662163
 bit 657353
-još 656035
 ko 624355
 nem 614394
 mala 603667
 mena 592913
 kazati 582862
+gde 576961
 vas 566132
 kad 564513
 visok 545545
@@ -87,38 +88,37 @@ hvala 543376
 doći 538444
 iz 530872
 visoko 508752
+možda 502760
 ili 500982
 čovjek 491997
 tebe 490643
-možda 487532
 ih 482215
 malo 480545
 više 478357
 sada 471281
 onda 470926
 vreme 467413
+neko 466471
 bil 465691
-gde 459531
 zar 455921
+ništa 455864
 do 453792
 stvar 452464
 bih 449626
 treba 448129
 dan 446661
 drugi 444888
-ništa 442135
+voliti 441535
 posao 431121
 kada 428193
-neko 424915
 ništ 420085
 uraditi 415177
+godina 411561
 moliti 408026
-hajde
- 404860
+hajde 404860
 naš 393010
 prav 390754
 pravi 390443
-godina 379124
 put 377131
 tama 372328
 vaš 371683
@@ -129,12 +129,11 @@ otići 354035
 sviti 353647
 pre 352321
 imam 351546
-voliti 346912
+gospodin 349691
 zbog 344803
 kuća 342643
 vratiti 341114
 velik 337420
-gospodin 336399
 ubiti 331355
 tu 329690
 čuti 329477
@@ -194,6 +193,7 @@ toga 237302
 togo 237176
 nemoj 235759
 ono 235356
+niko 234404
 dno 233519
 zdrav 233077
 kakav 232758
@@ -220,15 +220,12 @@ izvinuti 207847
 nikad 207572
 izgled 207267
 tata 204390
-niko 203856
 vid 203188
 pogledati 202190
 razumeti 200182
 rek 199958
 vida 199732
 problem 198450
-morati
- 197448
 isti 197022
 tat 196967
 slušati 196446
@@ -248,8 +245,6 @@ praviti 183324
 momak 183150
 ime 182960
 imat 181752
-ovde
- 181379
 poslati 179324
 zao 178407
 pustiti 177674
@@ -372,8 +367,6 @@ pronaći 118096
 puno 118010
 stran 117926
 strani 117773
-gde
- 117430
 pokušavati 117190
 posle 117039
 postati 116985
@@ -450,8 +443,6 @@ govor 95005
 zov 94990
 nekoliki 94965
 nekoliko 94929
-voliti
- 94623
 starati 94622
 nastaviti 94507
 smrt 94243
@@ -480,6 +471,7 @@ jeben 88744
 promeniti 88666
 isto 88502
 nakon 88406
+dole 88099
 ozbiljan 88060
 ostao 87668
 čudan 86921
@@ -530,8 +522,6 @@ osoba 79000
 lice 78790
 verovatan 78450
 dakle 78433
-šta
- 78420
 brojati 78336
 verovatno 77890
 pratiti 77356
@@ -568,13 +558,10 @@ važno 71447
 iće 71399
 oviti 71393
 nikoji 71270
-hteti
- 71223
 rat 71164
 postajati 71142
 uz 71110
 kriv 71099
-dole 71096
 jutro 70882
 spremati 70285
 kola 70264
@@ -643,6 +630,7 @@ baciti 60332
 oružje 60206
 krevet 59706
 zatvoriti 59629
+negde 59608
 dijete 59594
 probati 59594
 zvučiti 59414
@@ -768,7 +756,6 @@ divno 48419
 korist 48270
 počinjati 48269
 prokleti 48190
-negde 47928
 dvoje 47857
 um 47808
 manjiti 47781
@@ -798,6 +785,7 @@ moguće 46248
 svega 46154
 ček 46129
 greška 46112
+opasan 46005
 pojam 45971
 udariti 45949
 napad 45838
@@ -843,8 +831,6 @@ potrebno 41720
 miro 41688
 spasti 41634
 dokazati 41558
-neko
- 41556
 napred 41505
 snaga 41347
 ličan 41273
@@ -1043,8 +1029,6 @@ pesma 32642
 boljeti 32604
 planirati 32578
 advokat 32523
-godina
- 32437
 levi 32389
 ah 32334
 pala 32291
@@ -1092,8 +1076,6 @@ podignuti 30704
 podneti 30686
 jutros 30658
 zauvek 30560
-niko
- 30548
 popričati 30544
 jedva 30464
 prati 30428
@@ -1134,7 +1116,6 @@ muzika 29476
 djevojka 29466
 zločin 29462
 kutija 29412
-opasan 29402
 svakako 29380
 promena 29354
 noso 29349
@@ -1348,8 +1329,6 @@ iznenaditi 24319
 točan 24305
 ostavljati 24302
 svideti 24273
-moći
- 24262
 pakao 24256
 prokletstvo 24246
 laža 24194
@@ -1469,8 +1448,6 @@ pijan 21929
 iznenađenje 21907
 zaraditi 21905
 aralsko#jezero 21864
-još
- 21817
 mogućnost 21807
 pretvoriti 21799
 deliti 21791
@@ -1491,10 +1468,6 @@ mamiti 21514
 umući 21501
 adresa 21500
 venčanje 21462
-nešto
- 21455
-zašto
- 21405
 kontakt 21396
 napadati 21392
 glupo 21386
@@ -1650,8 +1623,6 @@ vojni 18611
 oprezan 18599
 pokvariti 18598
 drugar 18594
-znati
- 18577
 slediti 18577
 sopstven 18502
 pomalo 18495
@@ -1775,8 +1746,6 @@ martin 17062
 rast 17029
 peti 17027
 ćutati 17016
-dole
- 17003
 provera 16996
 mrdati 16994
 čin 16985
@@ -1809,8 +1778,6 @@ povezan 16633
 šira 16632
 priznavati 16625
 položaj 16617
-opasan
- 16603
 svejedno 16590
 trudan 16582
 pitalo 16563
@@ -1940,8 +1907,6 @@ glasati 15267
 naručiti 15265
 crvenjeti 15260
 mobilan 15232
-možda
- 15228
 seronja 15225
 tonuti 15217
 crveneti 15215
@@ -2121,8 +2086,6 @@ vezan 13762
 taman 13761
 zabraniti 13758
 učitelj 13743
-ništa
- 13729
 blisko 13727
 stomak 13722
 poslovan 13721
@@ -2174,8 +2137,6 @@ majmun 13314
 dokumenat 13313
 izuzetan 13309
 skidati 13293
-gospodin
- 13292
 suđenje 13292
 obrad 13287
 kopile 13287
@@ -2253,8 +2214,8 @@ pandur 12706
 hrabrost 12703
 svetski 12688
 rim 12677
-prevara 12677
 prijevara 12677
+prevara 12677
 zrak 12669
 vijest 12666
 legati 12648
@@ -2265,8 +2226,7 @@ usporiti 12613
 svetlost 12610
 stanjiti 12607
 faliti 12601
-ljudi
- 12598
+ljudi 12598
 projekat 12596
 rečen 12591
 pobiti 12582
@@ -2380,8 +2340,6 @@ poverenje 11710
 kapirati 11708
 nepoznat 11707
 odlazak 11699
-negde
- 11680
 častan 11677
 marka 11671
 uzbuđen 11663
@@ -2530,8 +2488,7 @@ uobičajen 10607
 lekcija 10606
 odvojiti 10601
 staro 10600
-želim
- 10577
+želim 10577
 viski 10573
 odvratno 10569
 gomilati 10564
@@ -2712,8 +2669,8 @@ mapa 9676
 bježati 9671
 kopija 9671
 približavati 9669
-bicik 9668
 bicikl 9668
+bicik 9668
 veriti 9665
 uticaj 9661
 peter 9656
@@ -3520,8 +3477,8 @@ pluće 6828
 ogrlica 6824
 igla 6822
 mijenjati 6815
-poginuo 6813
 poginuli 6813
+poginuo 6813
 zatražiti 6812
 povećati 6807
 smešati 6792
@@ -3811,8 +3768,8 @@ osobno 6054
 presvući 6053
 svjedok 6051
 drogirati 6050
-kreditni 6049
 kreditan 6049
+kreditni 6049
 blizanac 6046
 sanduk 6045
 naporno 6044
@@ -4654,8 +4611,8 @@ strelac 4478
 opklada 4478
 dušica 4475
 bacanje 4475
-čiko 4475
 čika 4475
+čiko 4475
 crtež 4470
 admiral 4468
 stablo 4467
@@ -5469,8 +5426,8 @@ iznositi 3500
 petnaest 3499
 prezirati 3499
 bina 3498
-mesečni 3497
 mesečan 3497
+mesečni 3497
 krivac 3497
 konkurencija 3497
 predvidjeti 3496
@@ -6365,8 +6322,8 @@ kresati 2717
 prezentacija 2716
 prikladno 2715
 izviđač 2714
-tamneti 2713
 tamnjeti 2713
+tamneti 2713
 tržni 2713
 bunar 2712
 arizona 2711
@@ -6381,8 +6338,8 @@ net 2705
 maša 2705
 vilica 2704
 četvorica 2703
-ulazan 2703
 ulazni 2703
+ulazan 2703
 nemilosrdan 2703
 iščupati 2703
 grofica 2702
@@ -8186,8 +8143,8 @@ viški 1830
 dian 1830
 polovica 1830
 trol 1830
-bankovan 1829
 bankovni 1829
+bankovan 1829
 sazvati 1829
 kate 1828
 parkiranje 1828
@@ -8300,8 +8257,8 @@ porediti 1784
 fatalan 1784
 uskratiti 1783
 arapin 1782
-motoran 1782
 motorni 1782
+motoran 1782
 jadničak 1781
 nedaleko 1780
 koči 1780
@@ -8321,8 +8278,8 @@ počasni 1775
 ošišati 1775
 kasin 1773
 slupati 1773
-novčan 1773
 novčani 1773
+novčan 1773
 nepotrebno 1772
 dopušten 1772
 skretanje 1772
@@ -8577,8 +8534,8 @@ financijski 1694
 romantika 1694
 iskrcati 1694
 hladiti 1693
-kumovska#slama 1693
 slama 1693
+kumovska#slama 1693
 jato 1693
 posmatranje 1693
 ljigav 1693
@@ -8610,8 +8567,8 @@ golubov 1681
 neprekidan 1680
 zastoj 1680
 unija 1680
-šnicl 1680
 šnicla 1680
+šnicl 1680
 osvežiti 1680
 šoping 1679
 broditi 1679
@@ -8773,8 +8730,8 @@ besprekoran 1629
 serum 1628
 dodeljen 1628
 obmana 1628
-testis 1628
 testisi 1628
+testis 1628
 dežuran 1627
 odgoditi 1627
 razvijen 1627
@@ -8893,8 +8850,8 @@ napeto 1587
 fokus 1587
 bebin 1587
 rušenje 1586
-mjuzikl 1586
 mjuzik 1586
+mjuzikl 1586
 idol 1585
 naftan 1585
 judo 1584
@@ -9499,8 +9456,8 @@ molekul 1411
 vampirski 1411
 brik 1409
 nepoštovanje 1409
-baščovan 1409
 baštovan 1409
+baščovan 1409
 bogalj 1409
 nagrađen 1409
 nemaran 1409
@@ -9609,8 +9566,8 @@ kosmički 1383
 zbunjujuće 1382
 bili 1382
 zamah 1382
-žitarice 1382
 žitarica 1382
+žitarice 1382
 svanuti 1382
 pročistiti 1382
 manekenka 1381
@@ -10679,8 +10636,8 @@ očitati 1138
 praska 1137
 bubnjar 1137
 kobra 1137
-upravan 1137
 upravni 1137
+upravan 1137
 kašljati 1137
 galeb 1137
 šifrovan 1137
@@ -10908,8 +10865,8 @@ obazirati 1096
 zavući 1096
 pepeljuga 1095
 sapunica 1095
-izlazni 1095
 izlazan 1095
+izlazni 1095
 foto 1094
 terenac 1094
 pećnica 1094
@@ -11074,8 +11031,8 @@ očišćen 1067
 skorašnji 1067
 alberto 1066
 dokazano 1066
-spektak 1066
 spektakl 1066
+spektak 1066
 francuskinja 1066
 kroket 1066
 dojaditi 1066
@@ -11498,8 +11455,8 @@ vegetarijanac 991
 dasa 991
 pomenut 991
 tolerancija 991
-harčiti 990
 arčiti 990
+harčiti 990
 pir 990
 vanja 990
 sito 990
@@ -12736,8 +12693,8 @@ bežičan 820
 predstavljen 820
 obrambeni 820
 nesanica 820
-enzim 820
 enzimi 820
+enzim 820
 sintetički 820
 montirati 820
 nasred 819
@@ -13266,8 +13223,8 @@ modifikovati 760
 praskati 759
 spokoj 759
 osobnost 759
-potonuli 759
 potonuo 759
+potonuli 759
 pretinac 759
 pribran 759
 ukucati 759
@@ -13640,8 +13597,8 @@ podgrejati 721
 patrolan 720
 eliminirati 720
 zlokoban 720
-spolan 720
 spolni 720
+spolan 720
 ovisnica 720
 pobunjenički 720
 obrukati 720
@@ -13855,8 +13812,8 @@ leopold 697
 grbačiti 697
 raspeti 697
 premoren 697
-ushićen 697
 ushititi 697
+ushićen 697
 spotaknuti 697
 mila 696
 rasulo 696
@@ -13976,8 +13933,8 @@ zakočiti 685
 zasnovano 684
 zlobno 684
 avans 684
-iznutrica 684
 iznutrice 684
+iznutrica 684
 prodirati 684
 mladica 684
 potpukovnik 684
@@ -14472,8 +14429,8 @@ previsoko 639
 posvećeno 639
 plejboj 639
 sokrat 639
-strika 639
 striko 639
+strika 639
 simboličan 639
 komunikacioni 639
 grubijan 639
@@ -15773,8 +15730,8 @@ pomjerati 535
 zavodljiv 535
 pridavati 535
 nizvodni 534
-ica 534
 ico 534
+ica 534
 smiješak 534
 poniznost 534
 veleposlanstvo 534
@@ -16271,8 +16228,8 @@ dos 501
 kasati 501
 google 501
 ljubičica 501
-samostrijel 501
 samostrel 501
+samostrijel 501
 listing 501
 nemilost 501
 voajer 501
@@ -16376,8 +16333,8 @@ umazati 495
 izvršeno 494
 majkl 494
 otrovno 494
-sastavni 494
 sastavan 494
+sastavni 494
 užinati 494
 tvit 494
 dopisnik 494
@@ -16485,8 +16442,8 @@ općiti 488
 raspuštati 488
 stalak 488
 runiti 488
-beneficija 488
 beneficij 488
+beneficija 488
 administrator 488
 parket 488
 amonijak 488
@@ -16942,8 +16899,8 @@ pijuckati 463
 zaviti 463
 dražesno 462
 priček 462
-ea 462
 eu 462
+ea 462
 sushi 462
 ekvivalent 462
 slano 462
@@ -18035,8 +17992,8 @@ zapamćen 405
 zapovediti 405
 poslužitelj 405
 odmorište 405
-hidrat 405
 hidrati 405
+hidrat 405
 šetalište 405
 prinos 405
 naraštaj 405
@@ -18191,8 +18148,8 @@ fosilan 397
 osnivati 397
 pokisnuti 397
 kadgod 396
-naim 396
 naime 396
+naim 396
 stenjanje 396
 forca 396
 meningitis 396
@@ -18496,8 +18453,8 @@ isjeći 382
 privreda 382
 albanija 382
 isceliti 382
-biseran 382
 biserni 382
+biseran 382
 udjel 381
 fah 381
 pilence 381
@@ -18537,8 +18494,8 @@ zgužvati 380
 neprocenjivo 379
 poticaj 379
 nelogičan 379
-alka 379
 halka 379
+alka 379
 protivljenje 379
 faktura 379
 tijara 379
@@ -19826,8 +19783,8 @@ perilica 326
 brljotina 326
 podrijetlo 326
 nekulturan 326
-baštin 326
 baština 326
+baštin 326
 zadruga 326
 nadrapati 326
 uznapredovati 326
@@ -20407,8 +20364,8 @@ insinuacija 305
 šogun 305
 vezir 305
 jeruzalem 305
-trodnevan 305
 trodnevni 305
+trodnevan 305
 zbijen 305
 primenjen 305
 izvoziti 305
@@ -20939,8 +20896,8 @@ sokoliti 287
 pande 287
 freud 287
 snimač 287
-oksid 287
 oksidi 287
+oksid 287
 penthaus 287
 damaski 287
 kivi 287
@@ -21129,8 +21086,8 @@ popucati 281
 poljoprivrednik 281
 potkopavati 281
 zemljoradnik 281
-monetaran 281
 monetarni 281
+monetaran 281
 telegrafski 281
 oskudica 281
 geometrijski 281
@@ -21201,8 +21158,8 @@ naprezanje 279
 gnušati 279
 nepristojnost 279
 rastrzati 279
-abecedni 279
 abecedan 279
+abecedni 279
 zapremina 279
 junačina 279
 curak 279
@@ -21907,8 +21864,8 @@ potresni 259
 janjetina 259
 prepadati 259
 muzejski 259
-jednokrevetni 259
 jednokrevetan 259
+jednokrevetni 259
 sjednica 259
 tamničar 259
 pretjeran 259
@@ -22311,8 +22268,8 @@ korejac 248
 ugrađivati 248
 izmusti 248
 gnječiti 248
-artik 248
 artikl 248
+artik 248
 smućkati 248
 prikucati 248
 arturo 247
@@ -22998,8 +22955,8 @@ borje 228
 boden 228
 proizilaziti 228
 hermetički 228
-nasljeđe 228
 naslijeđe 228
+nasljeđe 228
 vakum 228
 potjernica 228
 održanje 228
@@ -23586,8 +23543,8 @@ asov 213
 privatizacija 213
 ispovedaonica 213
 osmogodišnjak 213
-žaco 213
 žaca 213
+žaco 213
 precenjivati 213
 predusretljiv 213
 paravojni 213
@@ -24142,8 +24099,8 @@ luckasto 200
 sombrero 200
 procjep 200
 fijat 200
-branko 200
 branka 200
+branko 200
 gatara 200
 heroizam 200
 posttraumatski 200
@@ -24418,8 +24375,8 @@ venezuela 194
 odsjedati 194
 džipov 194
 autostoper 194
-prilazni 194
 prilazan 194
+prilazni 194
 ujednačen 194
 protestirati 194
 sponzorirati 194
@@ -24905,8 +24862,8 @@ odsutno 184
 lenje 184
 buli 184
 milostivo 184
-zlopamtiti 184
 zlopamtilo 184
+zlopamtiti 184
 istorijat 184
 mikron 184
 gukati 184
@@ -25477,8 +25434,8 @@ džanki 172
 kompleksnost 172
 lupetanje 172
 podavati 172
-sulfati 172
 sulfat 172
+sulfati 172
 pristaša 172
 prvenac 172
 orijentir 172
@@ -25842,8 +25799,8 @@ relativitet 165
 dens 165
 cepidlaka 165
 pavlovič 165
-karij 165
 karija 165
+karij 165
 samostalnost 165
 pisaro 165
 rastvarati 165
@@ -26080,8 +26037,8 @@ razmetanje 161
 brigadni 161
 kišovit 161
 dječačić 161
-ansambl 161
 ansamb 161
+ansambl 161
 inhibicija 161
 zverstvo 161
 fentanil 161
@@ -26292,8 +26249,8 @@ savetodavan 158
 ranjavati 158
 sabijen 158
 pokupovati 158
-cestovni 158
 cestovan 158
+cestovni 158
 eminentan 158
 nerešiv 158
 infracrveno 157
@@ -26900,8 +26857,8 @@ prekomandovati 148
 reformacija 148
 notoran 148
 okultizam 148
-navodnici 148
 navodnik 148
+navodnici 148
 smrknut 148
 mobilisan 148
 šlepati 148
@@ -27257,8 +27214,8 @@ asocijalan 143
 povlašten 143
 zloćudan 143
 teklič 143
-prenatalan 143
 prenatalni 143
+prenatalan 143
 mumljati 143
 asimetričan 143
 prežaliti 143
@@ -27366,8 +27323,8 @@ podizač 141
 otočje 141
 notorni 141
 zavejati 141
-dvodnevni 141
 dvodnevan 141
+dvodnevni 141
 vibrirajući 141
 zapečen 141
 goloruk 141
@@ -28034,8 +27991,8 @@ pravično 131
 hardkor 131
 milionče 131
 izjednačenje 131
-bonsaj 131
 bonsai 131
+bonsaj 131
 prečko 131
 prianjati 131
 neurokirurg 131
@@ -28327,8 +28284,8 @@ vazdušno 127
 bezvezno 127
 bezdušno 127
 polijetanje 127
-išijas 127
 ishijas 127
+išijas 127
 kapučino 127
 veterinarka 127
 vozačica 127
@@ -28822,8 +28779,8 @@ mrdanje 121
 zečevina 121
 ortakinja 121
 marksist 121
-sredozeman 121
 sredozemni 121
+sredozeman 121
 marijanski 121
 libanon 121
 materijalizam 121
@@ -28890,8 +28847,8 @@ vlat 120
 nazeb 120
 fijaker 120
 jidiš 120
-seksipil 120
 seksepil 120
+seksipil 120
 stenograf 120
 zapisničar 120
 kovanje 120
@@ -29594,8 +29551,8 @@ nadomestiti 112
 slegati 112
 prebirati 112
 pouzdavati 112
-distalan 112
 distalni 112
+distalan 112
 elektromagnetno 111
 beri 111
 jingl 111
@@ -30208,8 +30165,8 @@ praznovjeran 105
 zakupnina 105
 krilni 105
 palčica 105
-kompjutoraš 105
 kompjuteraš 105
+kompjutoraš 105
 pantljičara 105
 izgred 105
 poravnavati 105
@@ -30915,8 +30872,8 @@ opipavati 98
 ambasadorov 98
 sapunski 98
 ispupčen 98
-satkati 98
 satkan 98
+satkati 98
 nadrilekar 98
 melisin 98
 prosvijetljen 98
@@ -31220,8 +31177,8 @@ hiniti 95
 čvorić 95
 praznoveran 95
 ruptura 95
-debitni 95
 debitan 95
+debitni 95
 nadražaj 95
 muštrati 95
 dostojanstvenik 95
@@ -31275,8 +31232,8 @@ funkcionalnost 94
 izručen 94
 teleks 94
 rikošet 94
-stažistica 94
 stažistkinja 94
+stažistica 94
 volonterka 94
 razapinjanje 94
 odbojnik 94
@@ -32408,8 +32365,8 @@ andrejev 84
 blještavilo 84
 junačenje 84
 antihistaminik 84
-sulfid 84
 sulfidi 84
+sulfid 84
 izlječenje 84
 iskupitelj 84
 uočavanje 84
@@ -32448,8 +32405,8 @@ jareći 84
 afazija 84
 tasmanija 84
 potkazati 84
-pecar 84
 pecara 84
+pecar 84
 skuhan 84
 udaljivati 84
 čileanac 84
@@ -32903,8 +32860,8 @@ navlakuša 80
 renomirati 80
 iskrivljenje 80
 partenon 80
-sudionica 80
 sudioneca 80
+sudionica 80
 larmati 80
 kerber 80
 cimerman 80
@@ -33172,8 +33129,8 @@ izbeljivanje 78
 korana 78
 flaks 78
 ogibljenje 78
-četvorni 78
 četvoran 78
+četvorni 78
 staloženost 78
 konvulzija 78
 džuma 78
@@ -33413,8 +33370,8 @@ uvozno 76
 sporedno 76
 proizvoljno 76
 zdušno 76
-zaboravka 76
 zaboravko 76
+zaboravka 76
 staloženo 76
 ređa 76
 upropašćeno 76
@@ -34924,8 +34881,8 @@ ponesen 66
 obistinjivati 66
 fantomki 66
 jednosatan 66
-bregast 66
 bregasti 66
+bregast 66
 tumaranje 66
 govorljiv 66
 fermati 66
@@ -35218,8 +35175,8 @@ desktop 64
 likvidnost 64
 poumirati 64
 hotelijer 64
-bajbuk 64
 bajbok 64
+bajbuk 64
 progoriti 64
 tratina 64
 prozivanje 64
@@ -37250,8 +37207,8 @@ obešenjak 53
 liptati 53
 obest 53
 prijevozan 53
-acetat 53
 acetati 53
+acetat 53
 šarov 53
 obamrlost 53
 triptih 53
@@ -37313,8 +37270,8 @@ grbov 53
 iseljenik 53
 izbavljen 53
 budžak 53
-crpni 53
 crpan 53
+crpni 53
 umilostiviti 53
 nabreknuti 53
 grdoba 53
@@ -37479,8 +37436,8 @@ beleženje 52
 koncil 52
 roming 52
 božićnica 52
-ćirilični 52
 ćiriličan 52
+ćirilični 52
 besparica 52
 genov 52
 kokot 52
@@ -37529,8 +37486,8 @@ iskupljen 52
 jednomesečni 52
 numerologija 52
 telemetrijski 52
-gorivni 52
 gorivan 52
+gorivni 52
 akcionarski 52
 janičar 52
 kalemov 52
@@ -38511,8 +38468,8 @@ nefleksibilan 47
 trpljenje 47
 sasečen 47
 popravljiv 47
-serpentin 47
 serpentina 47
+serpentin 47
 seizmolog 47
 đurđevak 47
 okeanografski 47
@@ -38843,8 +38800,8 @@ multikulturalan 46
 ekstrapolirati 46
 uzdrhtao 46
 razjuriti 46
-rasprostrijeti 46
 rasprostrti 46
+rasprostrijeti 46
 zarumenjeti 46
 izlistati 46
 presnimavati 46
@@ -38893,8 +38850,8 @@ forhend 45
 tetica 45
 severac 45
 posesivnost 45
-prekogranični 45
 prekograničan 45
+prekogranični 45
 palindrom 45
 obolijevati 45
 furnir 45
@@ -38992,8 +38949,8 @@ sedamnaestogodišnjak 45
 graditeljstvo 45
 drakonski 45
 oglašen 45
-obvezujući 45
 obvezujuć 45
+obvezujući 45
 ovrha 45
 gmizav 45
 bačvica 45
@@ -40301,8 +40258,8 @@ novica 40
 vođica 40
 revitalizovati 40
 konoba 40
-petočlani 40
 petočlan 40
+petočlani 40
 internirati 40
 padavica 40
 entomologija 40
@@ -41508,8 +41465,8 @@ nalepljen 36
 opružen 36
 popločiti 36
 luksemburški 36
-brahijalni 36
 brahijalan 36
+brahijalni 36
 zvezdin 36
 spužvast 36
 obrubiti 36
@@ -41863,8 +41820,8 @@ pereza 34
 nadrkano 34
 herman 34
 detešce 34
-čangrizalo 34
 čangrizati 34
+čangrizalo 34
 pritvorenica 34
 glamour 34
 nezaboravak 34
@@ -42022,8 +41979,8 @@ ignoriran 34
 ekonom 34
 napjev 34
 zaparati 34
-lejlek 34
 lelek 34
+lejlek 34
 subliminalan 34
 hermetičan 34
 etaža 34
@@ -42597,8 +42554,8 @@ pusti 32
 vukovar 32
 dometnuti 32
 četvorosed 32
-metilj 32
 metiljka 32
+metilj 32
 dopadanje 32
 morbidnost 32
 dimnjačar 32
@@ -42748,8 +42705,8 @@ presušen 32
 turbopunjač 32
 konsolidirati 32
 februarski 32
-zakukuljen 32
 zakukuljiti 32
+zakukuljen 32
 potkazivati 32
 deblokirati 32
 komisioni 32
@@ -43080,8 +43037,8 @@ osvešten 31
 ukoričiti 31
 repliciran 31
 pojeftiniti 31
-reciklažni 31
 reciklažan 31
+reciklažni 31
 ikonski 31
 osmanlijski 31
 asketski 31
@@ -43371,8 +43328,8 @@ sukcesija 30
 protutnjiti 30
 rezulatat 30
 sastavljan 30
-jednočlan 30
 jednočlani 30
+jednočlan 30
 šarenica 30
 sastrugan 30
 priplodan 30
@@ -44053,8 +44010,8 @@ konzument 28
 giljotiniran 28
 kontraobaveštajac 28
 begov 28
-jasik 28
 jasika 28
+jasik 28
 putarski 28
 preglednik 28
 osobitost 28
@@ -44247,8 +44204,8 @@ peščano 27
 brtvljenje 27
 žudno 27
 ometeno 27
-svojedobno 27
 svojedobni 27
+svojedobno 27
 neubičajeno 27
 nedosledno 27
 namig 27
@@ -44385,8 +44342,8 @@ penzionerka 27
 poentiranje 27
 hranljivost 27
 oktan 27
-svračak 27
 svračci 27
+svračak 27
 ratobornost 27
 komunistica 27
 jezičara 27
@@ -44516,8 +44473,8 @@ idelan 27
 ispatiti 27
 dereglija 27
 pritezati 27
-podastreti 27
 podastrijeti 27
+podastreti 27
 tuniski 27
 gregorijanski 27
 heksagonalan 27
@@ -44792,8 +44749,8 @@ amnestiran 26
 krivičar 26
 rajon 26
 kušan 26
-čađaviti 26
 čađavjeti 26
+čađaviti 26
 luxembourg 26
 downloadati 26
 kardijalan 26
@@ -45483,8 +45440,8 @@ propišati 25
 aminovati 25
 paleontološki 25
 ordinirati 25
-disciplinaran 25
 disciplinarni 25
+disciplinaran 25
 raskoliti 25
 komplimentirati 25
 protivprirodno 24
@@ -45864,8 +45821,8 @@ formalizovati 24
 tucan 24
 čuba 24
 defilovati 24
-poluprofesionalan 24
 poluprofesionalni 24
+poluprofesionalan 24
 vratina 24
 komodorov 24
 vigovac 24
@@ -46131,8 +46088,8 @@ indoktriniran 23
 čučavac 23
 okivati 23
 pokorica 23
-švargl 23
 švargla 23
+švargl 23
 potkazivanje 23
 sirćetni 23
 potiskivan 23
@@ -46212,8 +46169,8 @@ ložište 23
 apstinent 23
 ufuravati 23
 showov 23
-juteni 23
 juten 23
+juteni 23
 dorađen 23
 raskraviti 23
 odabranica 23
@@ -46341,8 +46298,8 @@ konfederativan 23
 orezivati 23
 nutricionistički 23
 dotin 23
-apokrifni 23
 apokrifan 23
+apokrifni 23
 rođački 23
 raspaljen 23
 potka 23
@@ -46370,8 +46327,8 @@ indignacija 23
 priučen 23
 sarajevski 23
 žlezdan 23
-odredišni 23
 odredišan 23
+odredišni 23
 multimilijunski 23
 letonski 23
 zazvečati 23
@@ -46523,8 +46480,8 @@ sirovost 22
 taboriti 22
 obrađivač 22
 pljeva 22
-užara 22
 užar 22
+užara 22
 lepetati 22
 ramija 22
 valabi 22
@@ -46649,16 +46606,16 @@ parestezija 22
 odogovoran 22
 propisivanje 22
 zvrjiti 22
-pastoral 22
 pastorala 22
+pastoral 22
 stimulus 22
 večeranje 22
 ahat 22
 mravac 22
 pečenjariti 22
 prud 22
-preuzbuditi 22
 preuzbuđen 22
+preuzbuditi 22
 uzbudljivost 22
 spažen 22
 tekunica 22
@@ -46723,8 +46680,8 @@ akustički 22
 novelist 22
 kandilo 22
 zakasnina 22
-aerosolan 22
 aerosolni 22
+aerosolan 22
 ražestiti 22
 mezopotamija 22
 elektrodinamika 22
@@ -47278,8 +47235,8 @@ uspentrati 21
 terina 21
 sadejstvo 21
 parajlija 21
-grbina 21
 grbin 21
+grbina 21
 prepodoban 21
 manipuliran 21
 tročasovni 21
@@ -47403,8 +47360,8 @@ rohanov 21
 narodski 21
 iskotrljati 21
 bravarski 21
-slaveni 21
 slaven 21
+slaveni 21
 eukaliptusov 21
 uljuljati 21
 obletjeti 21
@@ -47438,8 +47395,8 @@ možebitan 21
 neugasiv 21
 proizvođen 21
 pocinkovan 21
-mrzli 21
 mrzao 21
+mrzli 21
 sprčkati 21
 tvorčev 21
 narcisov 21
@@ -47889,8 +47846,8 @@ razgrabljen 20
 ustoličen 20
 utopljenica 20
 anoreksičar 20
-petosatni 20
 petosatan 20
+petosatni 20
 kozmetologija 20
 promemorija 20
 apstinencijski 20
@@ -48152,8 +48109,8 @@ davljenica 19
 istresanje 19
 koleta 19
 sklapan 19
-levanje 19
 lijevanje 19
+levanje 19
 dokoljenka 19
 ublaženje 19
 podmitljivost 19
@@ -48264,8 +48221,8 @@ jodler 19
 izravnost 19
 kožurica 19
 skučenost 19
-jednominutan 19
 jednominutni 19
+jednominutan 19
 osemenjavanje 19
 dekoncentriran 19
 zrcaliti 19
@@ -48318,8 +48275,8 @@ devojaštvo 19
 travanjski 19
 razabirati 19
 sinek 19
-vrijednosni 19
 vrijednosan 19
+vrijednosni 19
 prvoplasiran 19
 prvoplasirani 19
 bijenale 19
@@ -48465,8 +48422,8 @@ razgnjeviti 19
 ugrijan 19
 izvansudski 19
 panamac 19
-osmosatni 19
 osmosatan 19
+osmosatni 19
 drndav 19
 pripisivan 19
 prelat 19
@@ -48555,8 +48512,8 @@ akcentovati 19
 razuđen 19
 ozidati 19
 kanibalski 19
-intestinalni 19
 intestinalan 19
+intestinalni 19
 savojski 19
 nasprejati 19
 dubokomorski 19
@@ -48803,8 +48760,8 @@ separator 18
 orator 18
 tapirati 18
 rasplinjivati 18
-titoista 18
 titoist 18
+titoista 18
 lasteks 18
 prognoziran 18
 premeravanje 18
@@ -48858,8 +48815,8 @@ antitoksin 18
 zgrtanje 18
 isplaćivanje 18
 koalicijski 18
-rovke 18
 rovka 18
+rovke 18
 stakloplastika 18
 dijagnostikovanje 18
 razbolijevati 18
@@ -49448,8 +49405,8 @@ utelovljivati 17
 šiprag 17
 zamućenost 17
 trodjelni 17
-bliještati 17
 bliještiti 17
+bliještati 17
 kasnovečernji 17
 tisovina 17
 neizabran 17
@@ -49881,8 +49838,8 @@ rajs 16
 ofset 16
 izolda 16
 vizantijsko 16
-iskosa 16
 iskosati 16
+iskosa 16
 improvizirano 16
 namještanje 16
 humanoidno 16
@@ -50269,8 +50226,8 @@ salitra 16
 podmorje 16
 žicanje 16
 zagnjuren 16
-natalni 16
 natalan 16
+natalni 16
 sportiskinja 16
 naiva 16
 tupfer 16
@@ -50747,8 +50704,8 @@ rodoslovlje 15
 gelski 15
 prgavost 15
 propagiranje 15
-heliocentričan 15
 heliocentrični 15
+heliocentričan 15
 svrstavanje 15
 aguti 15
 rasprsnuće 15
@@ -51060,8 +51017,8 @@ psihofizički 15
 međaš 15
 preživljen 15
 isprevrtan 15
-prijelomni 15
 prijeloman 15
+prijelomni 15
 zabetoniran 15
 crvolik 15
 gluhoslijep 15
@@ -51196,8 +51153,8 @@ poodrasti 15
 aeroban 15
 nefrologija 15
 transcedentalan 15
-celulozan 15
 celulozni 15
+celulozan 15
 šiptar 15
 vrludav 15
 nenapisan 15
@@ -51604,8 +51561,8 @@ gnjezdilište 14
 rokada 14
 drvodeljstvo 14
 smušenost 14
-močvarice 14
 močvarica 14
+močvarice 14
 zgrbljen 14
 trublja 14
 utrina 14
@@ -51621,8 +51578,8 @@ nesvojstven 14
 klesarija 14
 zapljusnut 14
 preobličiti 14
-deltoidan 14
 deltoidni 14
+deltoidan 14
 imućno 14
 plesiosaur 14
 đinđić 14
@@ -51744,8 +51701,8 @@ prezidij 14
 sufiks 14
 zamućivanje 14
 izlijevati 14
-anterogradni 14
 anterogradan 14
+anterogradni 14
 učvršćenje 14
 zapodjenuti 14
 plemenitaš 14
@@ -51803,8 +51760,8 @@ mutavica 14
 vapor 14
 eksploatacijski 14
 pješadinac 14
-ishodištan 14
 ishodišan 14
+ishodištan 14
 nefrektomija 14
 oduka 14
 natkriliti 14
@@ -52115,8 +52072,8 @@ buzuk 13
 mixer 13
 upetljanost 13
 dortmund 13
-zahmet 13
 zamet 13
+zahmet 13
 škripavo 13
 redarstvo 13
 valovito 13
@@ -52421,8 +52378,8 @@ difrakcija 13
 brijački 13
 superhrana 13
 zakapanje 13
-okopneti 13
 okopnjeti 13
+okopneti 13
 mečić 13
 robica 13
 neiskvarenost 13
@@ -52588,8 +52545,8 @@ ksilen 13
 odijelce 13
 bonapartist 13
 federalist 13
-paniran 13
 panirati 13
+paniran 13
 uspješnica 13
 širokokutni 13
 flegmatičan 13
@@ -52643,8 +52600,8 @@ partijac 13
 transcedentan 13
 iznalaženje 13
 kapitalizovati 13
-protuupalan 13
 protuupalni 13
+protuupalan 13
 izgnjaviti 13
 zujev 13
 bakropis 13
@@ -52839,8 +52796,8 @@ mikenski 13
 izdriblati 13
 rodoslovni 13
 ocrtan 13
-osmodnevan 13
 osmodnevni 13
+osmodnevan 13
 hidroelektrični 13
 imaginativan 13
 škanjac 13
@@ -53104,8 +53061,8 @@ agim 12
 antropologinja 12
 britvin 12
 introvert 12
-kanalan 12
 kanalni 12
+kanalan 12
 klepet 12
 lupetalo 12
 zulum 12
@@ -53481,8 +53438,8 @@ parnički 12
 nazuvak 12
 kliničar 12
 naplakati 12
-predignuti 12
 predići 12
+predignuti 12
 namoliti 12
 tifusarka 12
 igorov 12
@@ -53590,8 +53547,8 @@ skrivljen 12
 preopustiti 12
 preopušten 12
 ribokradica 12
-žganci 12
 žganac 12
+žganci 12
 distribucioni 12
 spektroskopski 12
 piljak 12
@@ -53701,15 +53658,15 @@ bešavan 12
 unijski 12
 bukureštanski 12
 sistematizovati 12
-kompresiran 12
 kompresirati 12
+kompresiran 12
 visokogradnja 12
 zažaren 12
 jušni 12
 jušan 12
 nekorišćenje 12
-policistični 12
 policističan 12
+policistični 12
 satnikov 12
 neslomljen 12
 deponent 12
@@ -53794,9 +53751,9 @@ kultiviran 12
 naruku 11
 portorikansko 11
 glavarica 11
-erlija 11
 erli 11
 jerlija 11
+erlija 11
 umeđuvremenu 11
 neprozirno 11
 emmanuelin 11
@@ -54356,8 +54313,8 @@ preveslan 11
 estetičar 11
 astrobiologija 11
 mikrostruktura 11
-organela 11
 organel 11
+organela 11
 puškara 11
 policitemija 11
 kavalija 11
@@ -54387,8 +54344,8 @@ zapuniti 11
 ljutkast 11
 privatiziran 11
 čitluk 11
-latiničan 11
 latinični 11
+latiničan 11
 repozicioniranje 11
 galoša 11
 razračunavati 11
@@ -54433,8 +54390,8 @@ kruškica 11
 kućić 11
 spregnuti 11
 operacijin 11
-pretkletka 11
 pretklijetka 11
+pretkletka 11
 britski 11
 vododelnica 11
 hidrodinamički 11
@@ -54447,8 +54404,8 @@ jemenac 11
 primamljen 11
 scintigrafija 11
 sprintov 11
-vučin 11
 vučina 11
+vučin 11
 tokata 11
 previrati 11
 fenomenološki 11
@@ -54669,8 +54626,8 @@ fascija 11
 infestacija 11
 delfijski 11
 tiraninov 11
-četverodnevan 11
 četverodnevni 11
+četverodnevan 11
 elegičan 11
 žmirkav 11
 zaljutiti 11
@@ -55139,8 +55096,8 @@ kondicioniranje 10
 južiti 10
 epilacija 10
 ribiz 10
-pljuvan 10
 pljuuvati 10
+pljuvan 10
 piknut 10
 rekorderka 10
 šarin 10
@@ -55157,8 +55114,8 @@ kostov 10
 suglasje 10
 faustovski 10
 vijanje 10
-telefonistica 10
 telefonistkinja 10
+telefonistica 10
 pregnuće 10
 mokrica 10
 pozin 10
@@ -55424,8 +55381,8 @@ transseksualnost 10
 jarebika 10
 gubitnikov 10
 izvikivanje 10
-obavijestan 10
 obavestan 10
+obavijestan 10
 mokraćovod 10
 bećar 10
 administriranje 10
@@ -55684,8 +55641,8 @@ agera 10
 efektiva 10
 evidentiranje 10
 napržiti 10
-srednjoistočni 10
 srednjoistočan 10
+srednjoistočni 10
 nabirati 10
 redovnikov 10
 ispolitizirati 10
@@ -55744,8 +55701,8 @@ ponoćka 10
 radikalizovan 10
 pudrati 10
 tamanitelj 10
-orkestralni 10
 orkestralan 10
+orkestralni 10
 omanski 10
 odvlačen 10
 trinidadski 10
@@ -55972,8 +55929,8 @@ tilov 10
 plovidben 10
 pregrađivati 10
 štapićast 10
-prosvjedan 10
 prosvjedni 10
+prosvjedan 10
 dizan 10
 frontovski 10
 sumračan 10
@@ -56210,8 +56167,8 @@ pageant 9
 bubrenje 9
 fakultativno 9
 malobrojno 9
-mazija 9
 mazi 9
+mazija 9
 napucavanje 9
 rudimentarno 9
 banović 9
@@ -56549,8 +56506,8 @@ internacionalist 9
 julijanski 9
 josipov 9
 nećkanje 9
-novovalan 9
 novovalni 9
+novovalan 9
 gnjiliti 9
 osamostaljivanje 9
 egocentrizam 9
@@ -56810,8 +56767,8 @@ prajdov 9
 honduraški 9
 gašen 9
 cefoksitin 9
-povijuše 9
 povijuša 9
+povijuše 9
 pasteriziran 9
 semestralan 9
 antonim 9
@@ -56851,8 +56808,8 @@ alkalija 9
 očinji 9
 pešaštvo 9
 prepristojan 9
-iznijansirati 9
 iznijansiran 9
+iznijansirati 9
 ferplej 9
 simptomatski 9
 šaljivica 9
@@ -56887,8 +56844,8 @@ nekompetencija 9
 teropod 9
 evoluiranje 9
 pretkazati 9
-postmodernist 9
 postmodernista 9
+postmodernist 9
 doklizati 9
 poletište 9
 pisarov 9
@@ -56900,8 +56857,8 @@ gurkan 9
 košen 9
 samomržnja 9
 muslić 9
-peludni 9
 peludan 9
+peludni 9
 kompaktor 9
 cinički 9
 šestokrak 9
@@ -57111,8 +57068,8 @@ fanatički 9
 drvosečin 9
 plodotvoran 9
 srašten 9
-ekstradicion 9
 ekstradicioni 9
+ekstradicion 9
 rasvjetan 9
 radiosignal 9
 pasiva 9
@@ -57423,8 +57380,8 @@ dokud 8
 korva 8
 prašno 8
 međusklop 8
-onovremen 8
 onovremeni 8
+onovremen 8
 raboš 8
 bipolarno 8
 duljenje 8
@@ -57622,11 +57579,11 @@ glaziranje 8
 krmno 8
 registriranje 8
 samotnica 8
-rabadžija 8
 arabadžija 8
+rabadžija 8
 gdanjski 8
-jednoznačan 8
 jednoznačno 8
+jednoznačan 8
 udvoravati 8
 sekuritizacija 8
 lepršavost 8
@@ -57982,8 +57939,8 @@ tubast 8
 proburažen 8
 ibrik 8
 zapadnonemački 8
-pokondiren 8
 pokondiriti 8
+pokondiren 8
 žemička 8
 višebrojni 8
 uskogrudnost 8
@@ -58141,8 +58098,8 @@ pretakanje 8
 deplasirati 8
 deplasiran 8
 gavijal 8
-konsenzualan 8
 konsenzualni 8
+konsenzualan 8
 transpozicija 8
 divotan 8
 zbuditi 8
@@ -58338,8 +58295,8 @@ zastupnikov 8
 šugavac 8
 vižljast 8
 nagodben 8
-grogirati 8
 grogiran 8
+grogirati 8
 lambdin 8
 nelep 8
 hiperkritičan 8
@@ -58514,8 +58471,8 @@ doskakati 8
 šargarepin 8
 učiteljičin 8
 depresor 8
-autogeni 8
 autogen 8
+autogeni 8
 nećakinjin 8
 sporovozan 8
 specifikovati 8
@@ -58864,12 +58821,12 @@ renesansno 7
 samosvjesno 7
 ispitno 7
 rasplinuto 7
-uzveličan 7
 uzveličati 7
+uzveličan 7
 besprizorno 7
 malek 7
-raklje 7
 raklja 7
+raklje 7
 lakoverno 7
 ljubuški 7
 goloruko 7
@@ -59129,8 +59086,8 @@ trojezičan 7
 azijatsko 7
 enofil 7
 koosnivač 7
-periodik 7
 periodika 7
+periodik 7
 razbuđivati 7
 izobličavanje 7
 uvrtač 7
@@ -59157,8 +59114,8 @@ kanalica 7
 maksila 7
 prejudiciranje 7
 bakljonoša 7
-zoonoze 7
 zoonoza 7
+zoonoze 7
 tronut 7
 prisajedinjenje 7
 zakretanje 7
@@ -59519,8 +59476,8 @@ nagoviještati 7
 izmenjivanje 7
 redikul 7
 naplavljivanje 7
-parosmija 7
 parozmija 7
+parosmija 7
 vičnost 7
 napregnutost 7
 čupavica 7
@@ -59703,8 +59660,8 @@ diverzifikacija 7
 vinogradarski 7
 slepački 7
 hipokamp 7
-devetodnevni 7
 devetodnevan 7
+devetodnevni 7
 nadebljati 7
 cirkusantkinja 7
 reperov 7
@@ -59736,12 +59693,12 @@ zatopljavanje 7
 perpetuirati 7
 titular 7
 drenjina 7
-usaljen 7
 usaliti 7
+usaljen 7
 polusrušen 7
 nepozivanje 7
-štajerska 7
 štajerski 7
+štajerska 7
 strelast 7
 mikrografija 7
 centrifugirati 7
@@ -60107,8 +60064,8 @@ dupinov 7
 ispuštan 7
 zubarov 7
 odustti 7
-četveromjesečni 7
 četveromjesečan 7
+četveromjesečni 7
 neoljušten 7
 jolin 7
 četrdesetorica 7
@@ -60386,8 +60343,8 @@ imovno 6
 dolijevanje 6
 prijenosnica 6
 kovno 6
-fikcionaliziran 6
 fikcionalizirati 6
+fikcionaliziran 6
 pretpaljenje 6
 neprevaziđeno 6
 posprdno 6
@@ -61069,8 +61026,8 @@ odseljavati 6
 milanović 6
 dijaceza 6
 makinacija 6
-zavidnica 6
 zavidnik 6
+zavidnica 6
 čupavost 6
 trolist 6
 tkaonica 6
@@ -61487,8 +61444,8 @@ malograđanština 6
 zvučanje 6
 svevremenski 6
 utezati 6
-interdiscplinaran 6
 interdisciplinaran 6
+interdiscplinaran 6
 prilježan 6
 operatorski 6
 aponeuroza 6
@@ -61752,8 +61709,8 @@ izvešćivati 6
 gerontološki 6
 izmoljen 6
 klimatološki 6
-ogolio 6
 ogoljeli 6
+ogolio 6
 čipsov 6
 nastrugati 6
 oborinski 6
@@ -61811,8 +61768,8 @@ pivarstvo 6
 amerikanizirati 6
 elektrolučni 6
 torpedov 6
-pashalan 6
 pashalni 6
+pashalan 6
 neraspoređen 6
 zaprečen 6
 odstrijeliti 6
@@ -61860,8 +61817,8 @@ mržen 6
 prerađivan 6
 pokrštavati 6
 energizirati 6
-dvoetažni 6
 dvoetažan 6
+dvoetažni 6
 neprimenljiv 6
 susprezati 6
 hipokritov 6
@@ -61976,8 +61933,8 @@ prepostavljen 6
 selski 6
 nečovječan 6
 raskuštrati 6
-bjelokostan 6
 bjelokosni 6
+bjelokostan 6
 invertirati 6
 izboren 6
 iskomunicirati 6
@@ -62186,8 +62143,8 @@ potrt 5
 demis 5
 grožđano 5
 odomaćeno 5
-razvidno 5
 razvidan 5
+razvidno 5
 ornitološko 5
 ortopedsko 5
 programibilan 5
@@ -62240,8 +62197,8 @@ gvaš 5
 kutno 5
 algin 5
 nadjen 5
-kornati 5
 kornat 5
+kornati 5
 rinfuza 5
 afirmativno 5
 utrostručenje 5
@@ -62559,8 +62516,8 @@ zagorac 5
 čaranin 5
 obavještajka 5
 gnjilež 5
-robotizirati 5
 robotiziran 5
+robotizirati 5
 magnetika 5
 antifosfolipidan 5
 prvoizabran 5
@@ -62741,8 +62698,8 @@ oblijevati 5
 prestrukturiranje 5
 parabioza 5
 pregalac 5
-stipendistkinja 5
 stipendistica 5
+stipendistkinja 5
 nedelotvorno 5
 pokerašica 5
 celov 5
@@ -63250,8 +63207,8 @@ lipoprotein 5
 presebičan 5
 pretjeranost 5
 prvorotkinja 5
-kloriran 5
 klorirati 5
+kloriran 5
 odjeljivanje 5
 neoliberal 5
 prostitutski 5
@@ -63474,9 +63431,9 @@ kaljo 5
 floreta 5
 neshvatljivost 5
 neučinjen 5
-razastreti 5
 razastrijeti 5
 razastrti 5
+razastreti 5
 bogaljev 5
 ankerov 5
 frapiran 5
@@ -63597,8 +63554,8 @@ prefriganac 5
 kosačev 5
 kormilarski 5
 polusvjestan 5
-maksilofacijalan 5
 maksilofacijalni 5
+maksilofacijalan 5
 blijedožut 5
 neupaljen 5
 ekipin 5
@@ -63742,8 +63699,8 @@ dokončati 5
 crtaljka 5
 baniti 5
 činovnikov 5
-hrskavičan 5
 hrskavični 5
+hrskavičan 5
 udisan 5
 iskašljivati 5
 bakrov 5
@@ -64026,8 +63983,8 @@ oportun 5
 maslinik 5
 finaliziranje 5
 žvakan 5
-tabličan 5
 tablični 5
+tabličan 5
 preodevati 5
 proklamirati 5
 samurov 5
@@ -64710,8 +64667,8 @@ bruer 4
 racionaliziran 4
 otočno 4
 papagajsko 4
-zazorno 4
 zazoran 4
+zazorno 4
 permutirati 4
 neiskusnost 4
 sudjelujući 4
@@ -65155,8 +65112,8 @@ paralelopiped 4
 stidljivac 4
 zdravljenje 4
 enterokolitis 4
-trupina 4
 trupin 4
+trupina 4
 bikla 4
 srdobolja 4
 mnogoženstvo 4
@@ -65171,8 +65128,8 @@ penezi 4
 legaliziranje 4
 nadstojnikov 4
 zvrkan 4
-vršina 4
 vršin 4
+vršina 4
 tužaljka 4
 zasnovanost 4
 toleriranje 4
@@ -65318,8 +65275,8 @@ misal 4
 neveselost 4
 negospodski 4
 ćakulanje 4
-penalni 4
 penalan 4
+penalni 4
 nukleosinteza 4
 euribor 4
 egzekutivan 4
@@ -65440,8 +65397,8 @@ usvajan 4
 parodontoza 4
 zabijač 4
 represivnost 4
-unisono 4
 unison 4
+unisono 4
 biatlonac 4
 kobasicijada 4
 kvalifikovanost 4
@@ -65493,8 +65450,8 @@ kušina 4
 genezin 4
 prastanovnik 4
 hijaluronski 4
-igrališan 4
 igrališni 4
+igrališan 4
 zanijekan 4
 nabrojen 4
 preneuredan 4
@@ -65538,8 +65495,8 @@ coprati 4
 rastjeran 4
 stišavanje 4
 informatičarka 4
-štrukle 4
 štrukli 4
+štrukle 4
 terapeutica 4
 klempavo 4
 potkrepljivanje 4
@@ -65619,8 +65576,8 @@ sekvestrirati 4
 pansionat 4
 kopernikanski 4
 preokretan 4
-utužen 4
 utužiti 4
+utužen 4
 francija 4
 šumarov 4
 sivaš 4
@@ -65753,8 +65710,8 @@ virovit 4
 nicanje 4
 neorganizacija 4
 galicijski 4
-dezorganiziran 4
 dezorganizirati 4
+dezorganiziran 4
 profač 4
 jašterica 4
 bajkerica 4
@@ -65782,8 +65739,8 @@ tituliranje 4
 indignirati 4
 peradar 4
 ivanić 4
-bilansni 4
 bilansan 4
+bilansni 4
 spašavatelj 4
 crpenje 4
 drvljanik 4
@@ -66097,8 +66054,8 @@ strankin 4
 zaprimanje 4
 isfrizirati 4
 pučist 4
-žalobnik 4
 žalobnica 4
+žalobnik 4
 portretni 4
 podesnost 4
 sargaso 4
@@ -66221,8 +66178,8 @@ ugotoviti 4
 perajar 4
 zoroastrijanski 4
 inkompatibilnost 4
-opnokrilci 4
 opnokrilac 4
+opnokrilci 4
 intoniran 4
 partikula 4
 mužićev 4
@@ -66296,8 +66253,8 @@ matičnjak 4
 harmoničnost 4
 otčepljivati 4
 damirov 4
-zazelenjeti 4
 zazeleniti 4
+zazelenjeti 4
 posvestiti 4
 izbjegnuti 4
 povikivati 4
@@ -66455,8 +66412,8 @@ farmakoterapija 4
 razumljivost 4
 suradnički 4
 navodnjavan 4
-devetosatni 4
 devetosatan 4
+devetosatni 4
 komušina 4
 radionuklid 4
 zakunjati 4
@@ -66828,8 +66785,8 @@ hodan 4
 izdatnica 4
 odrečen 4
 visokoprofitabilan 4
-determinanta 4
 determinant 4
+determinanta 4
 tipografski 4
 feldmaršalov 4
 anilinov 4
@@ -66966,8 +66923,8 @@ nesečen 4
 obrtnički 4
 dijastolički 4
 patuljica 4
-desetosatan 4
 desetosatni 4
+desetosatan 4
 münchenski 4
 dopplerov 4
 pozornički 4
@@ -67121,8 +67078,8 @@ petoletka 3
 osamnaestoro 3
 vjedi 3
 natjecateljsko 3
-batinjan 3
 batinjanin 3
+batinjan 3
 mamutica 3
 karanov 3
 prtljažnica 3
@@ -67227,8 +67184,8 @@ ravanteljica 3
 evokativno 3
 mikroflora 3
 protuoklopno 3
-gluhonijemost 3
 gluhonemost 3
+gluhonijemost 3
 uznositost 3
 neoklasično 3
 rukovođeno 3
@@ -67364,8 +67321,8 @@ doskorašnje 3
 navaljivač 3
 naseljivo 3
 melirati 3
-nedozvoljiv 3
 nedozvoljivo 3
+nedozvoljiv 3
 izvojen 3
 alaša 3
 fosforescentno 3
@@ -67577,8 +67534,8 @@ sladostrasno 3
 medovođa 3
 međit 3
 demodirano 3
-provokatorka 3
 provokatorica 3
+provokatorka 3
 antipatičnost 3
 platfus 3
 tirozin 3
@@ -67696,8 +67653,8 @@ otavin 3
 vujić 3
 kinološko 3
 neborbeno 3
-svilara 3
 svilar 3
+svilara 3
 feriha 3
 razulareno 3
 posjedujući 3
@@ -67805,8 +67762,8 @@ graci 3
 direktorovanje 3
 agron 3
 vatrootporno 3
-nezasitnik 3
 nezasitnica 3
+nezasitnik 3
 nakrcano 3
 konakov 3
 obrtništvo 3
@@ -67940,8 +67897,8 @@ neprihvaćeno 3
 trpko 3
 introvertno 3
 humoristično 3
-mrčati 3
 mrča 3
+mrčati 3
 malicioznost 3
 izrično 3
 trenčkot 3
@@ -68432,8 +68389,8 @@ otklanjan 3
 otkravljivati 3
 emancipirano 3
 dekanstvo 3
-zauljen 3
 zauljiti 3
+zauljen 3
 teskobnost 3
 protupješački 3
 sporotrihoza 3
@@ -68610,15 +68567,15 @@ osvjetljivanje 3
 tunera 3
 gric 3
 oficij 3
-zaimač 3
 zaimača 3
+zaimač 3
 prešarati 3
 pregibanje 3
 presednikov 3
 normirati 3
 roćkas 3
-internistica 3
 internistkinja 3
+internistica 3
 kapitenov 3
 imanjce 3
 obodnica 3
@@ -68704,8 +68661,8 @@ diskutiran 3
 protagonistkinja 3
 odnošaj 3
 ojađeno 3
-zaražan 3
 zaražati 3
+zaražan 3
 psiholgija 3
 monetarizam 3
 kalendarov 3
@@ -69005,8 +68962,8 @@ okuražen 3
 smanjiv 3
 kreditiran 3
 ustreperiti 3
-glorificiran 3
 glorificirati 3
+glorificiran 3
 romanticizam 3
 dušebrižnički 3
 saksofonistkinja 3
@@ -69330,8 +69287,8 @@ dvojčeki 3
 prepažljiv 3
 zbrkanost 3
 vlasak 3
-datotečni 3
 datotečan 3
+datotečni 3
 tadžički 3
 pirovanje 3
 meditator 3
@@ -69349,8 +69306,8 @@ autoerotizam 3
 hibridov 3
 utemeljenost 3
 šumarija 3
-prefabrikovan 3
 prefabrikovati 3
+prefabrikovan 3
 đubretarov 3
 klokanov 3
 zaobljenje 3
@@ -69677,8 +69634,8 @@ orvelijanski 3
 nameštan 3
 neurozin 3
 prepakiran 3
-suburbija 3
 suburbij 3
+suburbija 3
 čovin 3
 plise 3
 elongacija 3
@@ -69725,8 +69682,8 @@ prebrođivanje 3
 kurant 3
 palačin 3
 bravac 3
-pletar 3
 pletara 3
+pletar 3
 ciničnost 3
 davnašnje 3
 ždrebanje 3
@@ -69745,8 +69702,8 @@ drvno 3
 vrtoglavac 3
 suprotstavljenost 3
 leženje 3
-referencijalan 3
 referencijalni 3
+referencijalan 3
 porečen 3
 deh 3
 prešaren 3
@@ -69791,8 +69748,8 @@ sadržajnost 3
 bičast 3
 iznedren 3
 žutulja 3
-nerizični 3
 nerizičan 3
+nerizični 3
 neradnički 3
 parterni 3
 iradijacija 3
@@ -70006,8 +69963,8 @@ opstruisan 3
 portin 3
 potvrđivan 3
 ispunjavan 3
-dvanaestosatni 3
 dvanaestosatan 3
+dvanaestosatni 3
 čukati 3
 treštav 3
 istoriografija 3
@@ -70025,8 +69982,8 @@ sedmosatni 3
 prenemiran 3
 scenografski 3
 zaporni 3
-mijeloičan 3
 mijeloični 3
+mijeloičan 3
 uprizoren 3
 endotel 3
 tenirati 3
@@ -70235,8 +70192,8 @@ ekosfera 3
 dioničarka 3
 biotički 3
 cvancika 3
-mansardan 3
 mansardni 3
+mansardan 3
 mušičar 3
 kozičav 3
 prokazivač 3
@@ -70360,8 +70317,8 @@ nerazveden 3
 ajfonov 3
 brandiranje 3
 pokolebljiv 3
-osmominutan 3
 osmominutni 3
+osmominutan 3
 saučesnikov 3
 sinkronicitet 3
 postrići 3
@@ -70531,8 +70488,8 @@ penalizirati 3
 natječajni 3
 nezaštićenost 3
 kondicionalan 3
-desetminutni 3
 desetminutan 3
+desetminutni 3
 poništavan 3
 grickan 3
 nalazačev 3
@@ -70743,8 +70700,8 @@ opančar 2
 ispolagati 2
 krčiteljica 2
 socijalistica 2
-udvorištvo 2
 udvorništvo 2
+udvorištvo 2
 uniformiranost 2
 bonano 2
 samohodno 2
@@ -70856,8 +70813,8 @@ boćarski 2
 prekrupiti 2
 transferiran 2
 gibljivost 2
-poustaja 2
 poustajati 2
+poustaja 2
 bentos 2
 retuširano 2
 izgrađivan 2
@@ -70957,8 +70914,8 @@ bana 2
 četveropreg 2
 zaogrtati 2
 formacijski 2
-uvenulost 2
 uvelost 2
+uvenulost 2
 kontekstualno 2
 likvidacijski 2
 nalaštiti 2
@@ -71127,8 +71084,8 @@ dušično 2
 harfin 2
 prepopustljiv 2
 priljeva 2
-plebiscitaran 2
 plebiscitarno 2
+plebiscitaran 2
 zaglupljivač 2
 uniformno 2
 idolov 2
@@ -71291,8 +71248,8 @@ pastirče 2
 hološ 2
 neslomljeno 2
 međašni 2
-međašno 2
 međašan 2
+međašno 2
 kontraobaveštajno 2
 ogoljivanje 2
 pronalazačica 2
@@ -71322,8 +71279,8 @@ diskrepancija 2
 uokvirivanje 2
 narodnjačko 2
 prešano 2
-inkoherentan 2
 inkoherentno 2
+inkoherentan 2
 peripatetik 2
 cisaprid 2
 žderonjin 2
@@ -71432,8 +71389,8 @@ meandrirati 2
 obespravljeno 2
 pregradski 2
 grofija 2
-perper 2
 perpera 2
+perper 2
 skrhanost 2
 rukopolagati 2
 babunija 2
@@ -71447,8 +71404,8 @@ okretljivost 2
 gromadno 2
 emer 2
 fakturist 2
-kodificiran 2
 kodificirati 2
+kodificiran 2
 anahrono 2
 cilik 2
 neodržavano 2
@@ -71477,8 +71434,8 @@ megapopularan 2
 lužnjak 2
 sputavajuće 2
 tranziciono 2
-obročan 2
 obročno 2
+obročan 2
 bedreno 2
 estetičko 2
 crkvenjakov 2
@@ -71752,8 +71709,8 @@ brcko 2
 nesklono 2
 državin 2
 aritmično 2
-prešećeren 2
 prešećeriti 2
+prešećeren 2
 strijelast 2
 škrobast 2
 razapinjan 2
@@ -71839,9 +71796,9 @@ doganjati 2
 poliarhija 2
 inkomodiran 2
 ishranjenost 2
-glagoljati 2
 glagoljaš 2
 glagoljiti 2
+glagoljati 2
 šankovski 2
 fako 2
 dogmatično 2
@@ -71849,8 +71806,8 @@ urinar 2
 vtb 2
 hidroza 2
 kapetina 2
-zavjetnica 2
 zavjetnik 2
+zavjetnica 2
 motkaš 2
 pobunin 2
 vegetarijanizam 2
@@ -72020,8 +71977,8 @@ predupređen 2
 nedorađeno 2
 dimovski 2
 hićen 2
-egzoterično 2
 egzoteričan 2
+egzoterično 2
 viševekovno 2
 kosnut 2
 neodvojeno 2
@@ -72131,8 +72088,8 @@ ekrazit 2
 detoks 2
 majorčić 2
 bojović 2
-cvrljiti 2
 cvrlje 2
+cvrljiti 2
 toolbar 2
 upravljivo 2
 napisov 2
@@ -72387,8 +72344,8 @@ speedov 2
 decembarsko 2
 gastroskop 2
 obezglavljenje 2
-odsječni 2
 odsječno 2
+odsječni 2
 motociklov 2
 lušo 2
 ebner 2
@@ -72411,8 +72368,8 @@ predsjedavatelj 2
 znakovitost 2
 kuturni 2
 virić 2
-bronhalan 2
 bronhalno 2
+bronhalan 2
 ćelijin 2
 kursorski 2
 propulzivno 2
@@ -72560,8 +72517,8 @@ skitničko 2
 limenjak 2
 kalambura 2
 gitarijada 2
-obospolan 2
 obospolno 2
+obospolan 2
 đilda 2
 predrastičan 2
 izdevetan 2
@@ -72620,8 +72577,8 @@ maksimov 2
 raspinjan 2
 mikica 2
 prhkost 2
-svakogodišnje 2
 svakogodišnji 2
+svakogodišnje 2
 demistifikovan 2
 zlouporabljivati 2
 reprezentant 2
@@ -72672,8 +72629,8 @@ onečišćeno 2
 nezajažljivost 2
 zakazivan 2
 osvetljivo 2
-miceli 2
 micelij 2
+miceli 2
 antioksidativan 2
 antioksidativno 2
 aboliran 2
@@ -72773,8 +72730,8 @@ storniran 2
 frčko 2
 impertinentnost 2
 hipokratsko 2
-prehrambeno 2
 hrambeno 2
+prehrambeno 2
 ledinjak 2
 junger 2
 progledavati 2
@@ -72938,8 +72895,8 @@ umanjivan 2
 klinkin 2
 suokrivljenik 2
 mlinarić 2
-deseteročlan 2
 deseteročlani 2
+deseteročlan 2
 rebrandiranje 2
 populističko 2
 povođenje 2
@@ -72951,8 +72908,8 @@ samačko 2
 importancija 2
 elamitski 2
 ibeovac 2
-poluuspešan 2
 poluuspešno 2
+poluuspešan 2
 paravojno 2
 pečenost 2
 tračeraj 2
@@ -72986,8 +72943,8 @@ optometristov 2
 pragmatičko 2
 trilerski 2
 krpeno 2
-ravnostran 2
 ravnostrano 2
+ravnostran 2
 mašinogradnja 2
 niktofobija 2
 drvenik 2
@@ -73222,8 +73179,8 @@ presumnjičav 2
 prebucmast 2
 osigurnina 2
 poštapati 2
-neuljuđeno 2
 neuljuđen 2
+neuljuđeno 2
 stolarsko 2
 uhranjenost 2
 jednocifreno 2
@@ -73383,8 +73340,8 @@ razbacivač 2
 mošnjica 2
 velikaški 2
 bijekcija 2
-užlijebiti 2
 užlijebljen 2
+užlijebiti 2
 vremešno 2
 šafranski 2
 brv 2
@@ -73550,8 +73507,8 @@ regrupiran 2
 draftirati 2
 čitateljski 2
 boysov 2
-spada 2
 špada 2
+spada 2
 žalfijin 2
 zastirač 2
 anemičar 2
@@ -73604,8 +73561,8 @@ deblokada 2
 gigabit 2
 oblakov 2
 glomeruloskleroza 2
-dijalizirati 2
 dijaliziran 2
+dijalizirati 2
 fetišizirati 2
 sumin 2
 merlotov 2
@@ -73767,8 +73724,8 @@ državotvoran 2
 gagrica 2
 kibic 2
 nesuradnja 2
-punoljetnik 2
 punoljetnica 2
+punoljetnik 2
 ukorjenjivati 2
 raslojiti 2
 kumulacija 2
@@ -73790,8 +73747,8 @@ cjepač 2
 nonkonformist 2
 osveštavanje 2
 antiaritmik 2
-osmerostruk 2
 osmerostruki 2
+osmerostruk 2
 legioneloza 2
 pedijatarski 2
 jednačenje 2
@@ -74328,8 +74285,8 @@ prepatetičan 2
 afonija 2
 kravarski 2
 bebić 2
-mitropolije 2
 mitropolija 2
+mitropolije 2
 arsenikov 2
 četinjača 2
 plesačev 2
@@ -74415,8 +74372,8 @@ međuspratov 2
 konfesionalan 2
 rajonov 2
 fosforescencija 2
-polubrojev 2
 polubroj 2
+polubrojev 2
 golicavost 2
 kamenski 2
 kuloarski 2
@@ -74479,8 +74436,8 @@ hiromant 2
 premorbidan 2
 germa 2
 austrijančev 2
-borosilikatan 2
 borosilikatni 2
+borosilikatan 2
 tugaljivost 2
 fragilnost 2
 nakrenut 2
@@ -75298,8 +75255,8 @@ invazor 2
 hrvačev 2
 miljen 2
 drman 2
-hranjenica 2
 hranjenik 2
+hranjenica 2
 izlijepiti 2
 nazaposlen 2
 papirusni 2
@@ -75565,8 +75522,8 @@ iskrstiti 2
 derogirati 2
 drmeš 2
 kečka 2
-beskrilni 2
 beskrilan 2
+beskrilni 2
 bastionov 2
 eskortirati 2
 angiopatija 2
@@ -75594,8 +75551,8 @@ oholica 2
 zvrkast 2
 koskin 2
 poprimljen 2
-četverominutni 2
 četverominutan 2
+četverominutni 2
 izmučivati 2
 arhaizam 2
 snižavan 2
@@ -75748,8 +75705,8 @@ otkotrljan 2
 pronevjeravati 2
 regionalizacija 2
 getoizacija 2
-eskontan 2
 eskontni 2
+eskontan 2
 beskralješnjak 2
 vizirov 2
 fiškalka 2
@@ -75809,8 +75766,8 @@ prodangubiti 2
 magazinov 2
 inokov 2
 vodarica 2
-gradonosan 2
 gradonosni 2
+gradonosan 2
 stupnjevan 2
 malab 2
 dvovalentan 2
@@ -75836,8 +75793,8 @@ destilacijski 2
 pometač 2
 nečitanje 2
 reapsorpcija 2
-diskontinuiran 2
 diskontinuirati 2
+diskontinuiran 2
 uglazbljen 2
 kupaonički 2
 iščlanjen 2
@@ -75895,8 +75852,8 @@ preuranjenost 2
 dvoglas 2
 žrebov 2
 ultrakratak 2
-birališan 2
 birališni 2
+birališan 2
 litotriptor 2
 leipziški 2
 emboličan 2
@@ -76036,8 +75993,8 @@ prirodoslovno 1
 maraška 1
 fabrio 1
 gazometar 1
-ispresijecati 1
 ispresijecan 1
+ispresijecati 1
 promicatelj 1
 subliminalno 1
 resorno 1
@@ -76130,8 +76087,8 @@ hučan 1
 nevoljin 1
 odrođeno 1
 razbludnost 1
-anakron 1
 anakrono 1
+anakron 1
 preimućan 1
 fahita 1
 prnjavor 1
@@ -76185,8 +76142,8 @@ fućkalica 1
 zaustavljivost 1
 nanizam 1
 radijana 1
-dobavan 1
 dobavni 1
+dobavan 1
 strezovski 1
 zakonomernost 1
 ekshibicijski 1
@@ -76361,8 +76318,8 @@ skrušen 1
 prenapetost 1
 brčin 1
 bjeličast 1
-manifestni 1
 manifestno 1
+manifestni 1
 navezan 1
 neškodljivost 1
 neuverljivost 1
@@ -76432,8 +76389,8 @@ patoka 1
 sklizavost 1
 izgrednički 1
 izgredničko 1
-ilovast 1
 ilovasto 1
+ilovast 1
 prominenca 1
 mialgija 1
 pakovina 1
@@ -76611,8 +76568,8 @@ kolokasija 1
 romanistika 1
 borilac 1
 bešumnost 1
-inkrustirati 1
 inkrustiran 1
+inkrustirati 1
 nagibno 1
 orić 1
 koledarica 1
@@ -76623,8 +76580,8 @@ melec 1
 deindustrijalizacija 1
 naplativost 1
 neizlječivost 1
-ahmeta 1
 ahmeti 1
+ahmeta 1
 trifunovski 1
 prebarokan 1
 stereoskopija 1
@@ -76681,8 +76638,8 @@ dvoosovinski 1
 prioritetov 1
 brundalo 1
 needucirano 1
-novokomponiran 1
 novokomponirano 1
+novokomponiran 1
 zatvaračev 1
 velemajstorov 1
 viceprvak 1
@@ -76914,8 +76871,8 @@ zarumenjivati 1
 posvjedočivati 1
 ofanzivac 1
 lobotomiran 1
-anodan 1
 anodni 1
+anodan 1
 šalaporke 1
 neakademski 1
 plomin 1
@@ -76990,8 +76947,8 @@ potezan 1
 realističko 1
 čeketalo 1
 bušić 1
-kaišar 1
 kaišariti 1
+kaišar 1
 lavada 1
 svrabac 1
 jedvice 1
@@ -77168,15 +77125,15 @@ rehn 1
 presezonski 1
 tonalno 1
 batakov 1
-ponderiran 1
 ponderirati 1
+ponderiran 1
 itinerarij 1
 ortopedica 1
 izluđivan 1
 daskašica 1
 iskucavati 1
-upuhavan 1
 upuhavati 1
+upuhavan 1
 masturbant 1
 rekuperacija 1
 šestogodišnjakinjin 1
@@ -77208,8 +77165,8 @@ saturnizam 1
 ciljatelj 1
 kvotirati 1
 komplimentiran 1
-četverouglasto 1
 četverouglast 1
+četverouglasto 1
 henn 1
 agrobiologija 1
 nadiman 1
@@ -77317,8 +77274,8 @@ shizofrenično 1
 omisija 1
 casinov 1
 zakupčev 1
-nabojno 1
 nabojni 1
+nabojno 1
 radioficirati 1
 balkanizam 1
 kolonjsko 1
@@ -77326,8 +77283,8 @@ peroralno 1
 peroralni 1
 orukvica 1
 podčinjeno 1
-nesmeteno 1
 nesmeten 1
+nesmeteno 1
 anodizirati 1
 cesarić 1
 izolirband 1
@@ -77397,8 +77354,8 @@ slezenin 1
 špeža 1
 mililitarski 1
 ubilac 1
-listin 1
 listina 1
+listin 1
 obavještač 1
 designacija 1
 genka 1
@@ -77410,8 +77367,8 @@ drenažno 1
 konformističko 1
 izdrljati 1
 avogadrov 1
-isparceliziran 1
 isparcelizirati 1
+isparceliziran 1
 raspačati 1
 optičarov 1
 prevalovit 1
@@ -77700,8 +77657,8 @@ visokoparno 1
 uračunljivo 1
 cezarski 1
 autodizalica 1
-presečanin 1
 presečan 1
+presečanin 1
 enigmatičar 1
 merkantilan 1
 zabundan 1
@@ -77714,8 +77671,8 @@ pompin 1
 žiličasto 1
 anglosaski 1
 protumera 1
-imitativno 1
 imitativan 1
+imitativno 1
 brahim 1
 zaraćeno 1
 serafinov 1
@@ -77723,8 +77680,8 @@ arteriopatija 1
 kneščić 1
 mrmljavac 1
 grivnjaš 1
-daždeti 1
 daždjeti 1
+daždeti 1
 bezgrešnica 1
 međuzonski 1
 supinator 1
@@ -77855,8 +77812,8 @@ eklektizam 1
 prosvjetno 1
 kusalo 1
 sivobijel 1
-nekadanje 1
 nekadanji 1
+nekadanje 1
 ravnjak 1
 forumov 1
 kontrarevolucionarka 1
@@ -77985,8 +77942,8 @@ vodoinstalatersko 1
 dimiskija 1
 menični 1
 krčkan 1
-zatraviti 1
 zatravljen 1
+zatraviti 1
 prosektura 1
 flagelant 1
 hiperrealizam 1
@@ -78048,8 +78005,8 @@ odguravan 1
 začudnost 1
 mamutovac 1
 iglun 1
-komanditan 1
 komanditno 1
+komanditan 1
 jorgančić 1
 helioterapija 1
 posterizirati 1
@@ -78222,8 +78179,8 @@ jogašica 1
 snagatorica 1
 informatiziran 1
 informatizirati 1
-morbili 1
 morbile 1
+morbili 1
 antitraumatski 1
 prepoletan 1
 vojujući 1
@@ -78648,8 +78605,8 @@ predaukcijski 1
 hotijev 1
 aerifikacija 1
 dijafonija 1
-štacija 1
 stacija 1
+štacija 1
 frigo 1
 protupobunjenički 1
 folkov 1
@@ -78677,8 +78634,8 @@ nevično 1
 nadvojvotkinjin 1
 tangati 1
 unajmitelj 1
-suficitaran 1
 suficitarno 1
+suficitaran 1
 suficitarnost 1
 poterin 1
 inicijatorica 1
@@ -78899,8 +78856,8 @@ vanparničan 1
 preklapajuće 1
 predeterminirati 1
 rezidentov 1
-neorenesansan 1
 neorenesansni 1
+neorenesansan 1
 valutak 1
 prestrukturirati 1
 sabornica 1
@@ -78961,8 +78918,8 @@ hidrobus 1
 sudačko 1
 prisizati 1
 cirkumfleks 1
-posleoperacijski 1
 poslijeoperacijski 1
+posleoperacijski 1
 aktinomikoza 1
 razrušenost 1
 multiplikativan 1
@@ -79064,8 +79021,8 @@ onemogućavan 1
 zarobljeničko 1
 sinagogin 1
 neusvajanje 1
-paskvil 1
 paskvila 1
+paskvil 1
 brusilac 1
 trianglov 1
 juncker 1
@@ -79269,11 +79226,11 @@ nepobožno 1
 dragovićev 1
 jankov 1
 blizančić 1
-supstituirati 1
 supstituiran 1
+supstituirati 1
 ratifikacioni 1
-konstituiran 1
 konstituirati 1
+konstituiran 1
 đornuti 1
 infinitivan 1
 vrćen 1
@@ -79356,8 +79313,8 @@ elfi 1
 neznatiželjan 1
 natrijski 1
 raskolnik 1
-supotpisujati 1
 supotpisivati 1
+supotpisujati 1
 apozicija 1
 usljeđivati 1
 hipnotiziranost 1
@@ -79429,8 +79386,8 @@ jetrvica 1
 kamelijin 1
 sedmoljetka 1
 kurko 1
-izdijeljen 1
 izdijeliti 1
+izdijeljen 1
 vulkanizacija 1
 transfobija 1
 šrilančanin 1
@@ -79649,8 +79606,8 @@ kaplarčić 1
 svijetlocrveno 1
 svijetlocrven 1
 neispričano 1
-bogoljuban 1
 bogoljubni 1
+bogoljuban 1
 bogoljubnost 1
 superteško 1
 osvjetlan 1
@@ -79665,13 +79622,13 @@ agrarizam 1
 nadstražar 1
 upotrebno 1
 navlas 1
-barijeran 1
 barijerni 1
+barijeran 1
 bostanište 1
 strazburški 1
 ekstremistkinja 1
-dolaznik 1
 dolaznica 1
+dolaznik 1
 adnan 1
 gnezdov 1
 okivan 1
@@ -79822,8 +79779,8 @@ vlažen 1
 paternalist 1
 majkić 1
 unašati 1
-krnjača 1
 krnjak 1
+krnjača 1
 dekanić 1
 detonatorov 1
 pojmovno 1
@@ -79836,11 +79793,11 @@ dvomesečnik 1
 pepeljastoplav 1
 pavitina 1
 evropeizacija 1
-figuralni 1
 figuralan 1
+figuralni 1
 leukemijski 1
-policentrični 1
 policentričan 1
+policentrični 1
 maslenka 1
 transilvanski 1
 germanizirati 1
@@ -79917,8 +79874,8 @@ kolesterolemija 1
 runjika 1
 emigrantsko 1
 preraspodjeljivati 1
-prelov 1
 preloviti 1
+prelov 1
 odolijevanje 1
 samosvladavanje 1
 odlelujati 1
@@ -80220,8 +80177,8 @@ srednjoazijski 1
 preodgajanje 1
 pašalićev 1
 bogoslužbeno 1
-bogoslužbeni 1
 bogoslužben 1
+bogoslužbeni 1
 košč 1
 bister 1
 povodljivac 1
@@ -80349,8 +80306,8 @@ priveligiran 1
 priveligirati 1
 zagrijanost 1
 umirivan 1
-isplatitelj 1
 isplatilac 1
+isplatitelj 1
 energizirajući 1
 sladostrasnica 1
 magdalenski 1
@@ -80365,8 +80322,8 @@ uzgajačica 1
 kvestorov 1
 profanacija 1
 polifon 1
-navadno 1
 navadan 1
+navadno 1
 potlačitelj 1
 liberin 1
 bevanda 1
@@ -80383,8 +80340,8 @@ prokuhavanje 1
 preškolovan 1
 tifos 1
 danilović 1
-konfinirati 1
 konfiniran 1
+konfinirati 1
 kategoričnost 1
 tankiran 1
 suborbitalno 1
@@ -80478,8 +80435,8 @@ prolongacija 1
 melanholijin 1
 verbalizam 1
 šopan 1
-iskolčen 1
 iskolčiti 1
+iskolčen 1
 pjevuckati 1
 farisejev 1
 uplativ 1
@@ -80795,8 +80752,8 @@ preradba 1
 obdržavati 1
 žargonizam 1
 sicilski 1
-trabakula 1
 trabakul 1
+trabakula 1
 sviknut 1
 neokrunjen 1
 gugut 1
@@ -80815,8 +80772,8 @@ prekret 1
 kaštela 1
 pustopašnost 1
 aerografija 1
-općenacionalan 1
 općenacionalni 1
+općenacionalan 1
 futurologija 1
 zbjeći 1
 acetilenka 1
@@ -80861,8 +80818,8 @@ nacionalistkinja 1
 podalpski 1
 fonzo 1
 prezauzetost 1
-ramljanin 1
 ramljak 1
+ramljanin 1
 uspaljen 1
 pedesetgodišnjica 1
 pravdaški 1
@@ -80879,8 +80836,8 @@ panahija 1
 prelagodan 1
 frekventnost 1
 kinestezija 1
-potkivačko 1
 potkivački 1
+potkivačko 1
 barbituratan 1
 gnoza 1
 grozdasto 1
@@ -80936,8 +80893,8 @@ priključivan 1
 pružno 1
 pretalentiran 1
 istanca 1
-referalni 1
 referalan 1
+referalni 1
 ispovijedan 1
 relaksacijski 1
 klecavo 1
@@ -80996,8 +80953,8 @@ građevinarov 1
 raskužitelj 1
 ušato 1
 palilalija 1
-mineralizirati 1
 mineraliziran 1
+mineralizirati 1
 beslanski 1
 produljavati 1
 nelepo 1
@@ -81097,8 +81054,8 @@ kožurina 1
 izljubljen 1
 radovanović 1
 radoholičarstvo 1
-papatači 1
 papatač 1
+papatači 1
 preotečen 1
 ručničić 1
 gudalov 1
@@ -81173,8 +81130,8 @@ oženjenost 1
 disocirati 1
 bijeljen 1
 trilateracija 1
-urbanistkinja 1
 urbanistica 1
+urbanistkinja 1
 sužnjev 1
 umatan 1
 pohotljivica 1
@@ -81190,8 +81147,8 @@ pamuklija 1
 jeleč 1
 kujundžiluk 1
 berićet 1
-izrevoltirati 1
 izrevoltiran 1
+izrevoltirati 1
 udruživ 1
 južnonemački 1
 jahorina 1
@@ -81539,8 +81496,8 @@ abiotski 1
 tetovski 1
 kreditorov 1
 kapitacija 1
-pilac 1
 pilc 1
+pilac 1
 tarifiran 1
 nepotpisivanje 1
 parsirati 1
@@ -81597,10 +81554,10 @@ elektrokucija 1
 miletić 1
 cetinje 1
 neprocjenjivost 1
-protuzrakoplovan 1
 protuzrakoplovni 1
-četkast 1
+protuzrakoplovan 1
 četkasto 1
+četkast 1
 promrsiti 1
 drzovitost 1
 pravovjernik 1
@@ -81673,8 +81630,8 @@ strižen 1
 jasnin 1
 dijalektalan 1
 kotiranje 1
-lumbarda 1
 lubarda 1
+lumbarda 1
 ekstrasistolija 1
 gambitov 1
 zabavljenost 1
@@ -81880,8 +81837,8 @@ ekipaža 1
 kineziterapija 1
 šajkaš 1
 preteknut 1
-pejsažan 1
 pejsažni 1
+pejsažan 1
 jožefov 1
 kolacija 1
 eleketrični 1
@@ -82102,8 +82059,8 @@ raperov 1
 draftov 1
 visulja 1
 četvorodnevno 1
-nesavremeno 1
 nesavremen 1
+nesavremeno 1
 centarforov 1
 kvasina 1
 opteći 1
@@ -82183,8 +82140,8 @@ suptrakcija 1
 prestolonasljednica 1
 škartiranje 1
 čembalist 1
-piktija 1
 piktije 1
+piktija 1
 teleskopov 1
 fijodora 1
 nerazlučivo 1
@@ -82217,8 +82174,8 @@ kristalični 1
 kristaličan 1
 zameren 1
 strmovitost 1
-visokostručan 1
 visokostručno 1
+visokostručan 1
 cirkadijaran 1
 ektomija 1
 kôdov 1
@@ -82286,8 +82243,8 @@ baritonov 1
 koncesioniran 1
 pokućarka 1
 upinjanje 1
-opažavati 1
 opažavan 1
+opažavati 1
 zaoran 1
 višetjedni 1
 eruditski 1
@@ -82451,8 +82408,8 @@ malarično 1
 zakapariti 1
 svarivanje 1
 delinkventica 1
-sagoriv 1
 sagorivo 1
+sagoriv 1
 sarkozyjev 1
 rašin 1
 oblovina 1
@@ -82522,8 +82479,8 @@ ijekavica 1
 psihofizičko 1
 rasejeći 1
 nelikvidno 1
-reizdavati 1
 reizdavan 1
+reizdavati 1
 monofazni 1
 tuheljski 1
 jarun 1
@@ -82571,8 +82528,8 @@ ideografski 1
 neprevediv 1
 makrokozmos 1
 muhetina 1
-uvinuti 1
 uvinut 1
+uvinuti 1
 rasinski 1
 monašenje 1
 stihijni 1
@@ -82690,8 +82647,8 @@ domicilirati 1
 progresist 1
 neizvršeno 1
 ovlaštenik 1
-izdiferencirati 1
 izdiferenciran 1
+izdiferencirati 1
 izdiferencirano 1
 blagozvučan 1
 uljarica 1
@@ -82868,8 +82825,8 @@ velerija 1
 ukapljeni 1
 gradišće 1
 nadtlak 1
-žovijalan 1
 žovijalno 1
+žovijalan 1
 zanesenjakinja 1
 kartično 1
 bokun 1
@@ -82964,8 +82921,8 @@ korigiran 1
 otački 1
 najamnikov 1
 prispijeće 1
-hidrolizirati 1
 hidroliziran 1
+hidrolizirati 1
 dvovalentno 1
 kompresin 1
 anada 1
@@ -83006,8 +82963,8 @@ gerilčev 1
 hedonistkinja 1
 odnaroditi 1
 odnarođen 1
-postumno 1
 postuman 1
+postumno 1
 balotin 1
 glodarov 1
 oponašateljica 1
@@ -83057,8 +83014,8 @@ nadnaslov 1
 škrbo 1
 naherenost 1
 miljeni 1
-poopćiti 1
 poopćen 1
+poopćiti 1
 krtina 1
 jednosobno 1
 srezov 1
@@ -83188,8 +83145,8 @@ fabulin 1
 nadletan 1
 spratnost 1
 neustrašen 1
-tintan 1
 tintni 1
+tintan 1
 telerica 1
 odmjeravanje 1
 brinita 1
@@ -83246,8 +83203,8 @@ sitnozor 1
 poslovodni 1
 potak 1
 iznevjerenost 1
-izlučni 1
 izlučan 1
+izlučni 1
 šupljoglavo 1
 obesnažiti 1
 izdavatelj 1
@@ -83255,8 +83212,8 @@ gatalac 1
 excelov 1
 suradničko 1
 foteljin 1
-dolenjska 1
 dolenjski 1
+dolenjska 1
 prereligiozan 1
 ponovac 1
 fotomontiran 1
@@ -83283,14 +83240,14 @@ irisov 1
 kondukterkin 1
 poslužno 1
 instinktivnost 1
-sindikalistica 1
 sindikalistkinja 1
+sindikalistica 1
 madžarsko 1
 mnogogodišnje 1
 petrologija 1
 hidroksil 1
-nesustavan 1
 nesustavno 1
+nesustavan 1
 indukcijsko 1
 vrludavo 1
 diplomatičnost 1
@@ -83359,8 +83316,8 @@ jovičić 1
 polemičko 1
 ispreskakivati 1
 razvažati 1
-špura 1
 špur 1
+špura 1
 coprija 1
 nižestepeni 1
 njušen 1
@@ -83535,8 +83492,8 @@ antikršćanski 1
 oprsak 1
 podmorničarka 1
 prštavo 1
-koćar 1
 koćariti 1
+koćar 1
 rebić 1
 nebeletristički 1
 vježbačica 1
@@ -83805,8 +83762,8 @@ jasenovački 1
 atomiziranje 1
 antialkoholizam 1
 useknut 1
-tabuiziran 1
 tabuizirati 1
+tabuiziran 1
 prosvrdlati 1
 neupitnost 1
 pomućenost 1
@@ -83814,8 +83771,8 @@ kontaminiranost 1
 orwelijanski 1
 morak 1
 balkonov 1
-briježak 1
 briješki 1
+briježak 1
 posmrtnina 1
 smokvik 1
 predisciplinski 1
@@ -84035,8 +83992,8 @@ bačvarija 1
 zvrljanje 1
 kolonijalizacija 1
 vodomeđa 1
-svakovremeno 1
 svakovremen 1
+svakovremeno 1
 fantazist 1
 preaktualan 1
 proceniteljski 1
@@ -84150,8 +84107,8 @@ etatizam 1
 obadov 1
 ojačavan 1
 zaplenjivan 1
-megagradov 1
 megagrad 1
+megagradov 1
 terabajtov 1
 dućanov 1
 izgovorov 1
@@ -84183,8 +84140,8 @@ plodored 1
 eradicirati 1
 koksirati 1
 lucerkin 1
-čančar 1
 čančara 1
+čančar 1
 kantarionov 1
 ćurčić 1
 ogrebov 1
@@ -84278,8 +84235,8 @@ kratkoročnost 1
 knjigoveštvo 1
 sluhist 1
 hlepiti 1
-hlepjeti 1
 hlepeti 1
+hlepjeti 1
 polusestrin 1
 potrošivo 1
 uručak 1

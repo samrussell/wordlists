@@ -12,18 +12,18 @@ u 4779513
 ti 4366720
 to 4021684
 što 4000229
-šta 3753146
+šta 3831566
 koji 3342048
 htjeti 3245420
 mi 3113061
-hteti 2797234
+hteti 2868457
 na 2715310
-moći 2550279
+moći 2574541
 sa 2249585
 ovaj 2235705
 za 2235317
 li 2047748
-znati 2003110
+znati 2021687
 imati 1911792
 ni 1810284
 sav 1786465
@@ -45,6 +45,7 @@ te 1193623
 a 1191129
 onaj 1177451
 videti 1120879
+morati 1118898
 kako 1086915
 bilo 1054930
 o 1028624
@@ -53,7 +54,7 @@ ako 975660
 trebati 965274
 kao 937105
 želeti 929843
-morati 921450
+ovde 905499
 neki 880557
 taka 850436
 tako 848745
@@ -63,23 +64,23 @@ jedan 824589
 vidjeti 823769
 tvoj 758321
 mnogo 731556
-ovde 724120
 svoj 724068
 pa 714572
 mali 704967
+nešto 704373
+zašto 694268
 čovek 687591
 nemati 685967
-nešto 682918
-zašto 672863
+još 677852
 red 662554
 s 662163
 bit 657353
-još 656035
 ko 624355
 nem 614394
 mala 603667
 mena 592913
 kazati 582862
+gde 576961
 vas 566132
 kad 564513
 visok 545545
@@ -87,38 +88,37 @@ hvala 543376
 doći 538444
 iz 530872
 visoko 508752
+možda 502760
 ili 500982
 čovjek 491997
 tebe 490643
-možda 487532
 ih 482215
 malo 480545
 više 478357
 sada 471281
 onda 470926
 vreme 467413
+neko 466471
 bil 465691
-gde 459531
 zar 455921
+ništa 455864
 do 453792
 stvar 452464
 bih 449626
 treba 448129
 dan 446661
 drugi 444888
-ništa 442135
+voliti 441535
 posao 431121
 kada 428193
-neko 424915
 ništ 420085
 uraditi 415177
+godina 411561
 moliti 408026
-hajde
- 404860
+hajde 404860
 naš 393010
 prav 390754
 pravi 390443
-godina 379124
 put 377131
 tama 372328
 vaš 371683
@@ -129,12 +129,11 @@ otići 354035
 sviti 353647
 pre 352321
 imam 351546
-voliti 346912
+gospodin 349691
 zbog 344803
 kuća 342643
 vratiti 341114
 velik 337420
-gospodin 336399
 ubiti 331355
 tu 329690
 čuti 329477
@@ -194,6 +193,7 @@ toga 237302
 togo 237176
 nemoj 235759
 ono 235356
+niko 234404
 dno 233519
 zdrav 233077
 kakav 232758
@@ -220,15 +220,12 @@ izvinuti 207847
 nikad 207572
 izgled 207267
 tata 204390
-niko 203856
 vid 203188
 pogledati 202190
 razumeti 200182
 rek 199958
 vida 199732
 problem 198450
-morati
- 197448
 isti 197022
 tat 196967
 slušati 196446
@@ -248,8 +245,6 @@ praviti 183324
 momak 183150
 ime 182960
 imat 181752
-ovde
- 181379
 poslati 179324
 zao 178407
 pustiti 177674
@@ -372,8 +367,6 @@ pronaći 118096
 puno 118010
 stran 117926
 strani 117773
-gde
- 117430
 pokušavati 117190
 posle 117039
 postati 116985
@@ -450,8 +443,6 @@ govor 95005
 zov 94990
 nekoliki 94965
 nekoliko 94929
-voliti
- 94623
 starati 94622
 nastaviti 94507
 smrt 94243
@@ -480,6 +471,7 @@ jeben 88744
 promeniti 88666
 isto 88502
 nakon 88406
+dole 88099
 ozbiljan 88060
 ostao 87668
 čudan 86921
@@ -530,8 +522,6 @@ osoba 79000
 lice 78790
 verovatan 78450
 dakle 78433
-šta
- 78420
 brojati 78336
 verovatno 77890
 pratiti 77356
@@ -568,13 +558,10 @@ važno 71447
 iće 71399
 oviti 71393
 nikoji 71270
-hteti
- 71223
 rat 71164
 postajati 71142
 uz 71110
 kriv 71099
-dole 71096
 jutro 70882
 spremati 70285
 kola 70264
@@ -643,6 +630,7 @@ baciti 60332
 oružje 60206
 krevet 59706
 zatvoriti 59629
+negde 59608
 dijete 59594
 probati 59594
 zvučiti 59414
@@ -768,7 +756,6 @@ divno 48419
 korist 48270
 počinjati 48269
 prokleti 48190
-negde 47928
 dvoje 47857
 um 47808
 manjiti 47781
@@ -798,6 +785,7 @@ moguće 46248
 svega 46154
 ček 46129
 greška 46112
+opasan 46005
 pojam 45971
 udariti 45949
 napad 45838
@@ -843,8 +831,6 @@ potrebno 41720
 miro 41688
 spasti 41634
 dokazati 41558
-neko
- 41556
 napred 41505
 snaga 41347
 ličan 41273
@@ -998,4 +984,18 @@ odgovarati 34479
 hotel 34455
 odluka 34454
 morato 34422
+predati 34420
+učiti 34280
+kriva 34170
+stanica 34169
+podići 34102
+hitan 34093
+ured 34062
+umirati 34005
+mire 33939
+šteta 33929
+eto 33917
+izašao 33893
+čest 33816
+eta 33784
 
